@@ -1,0 +1,2 @@
+# ssg
+String Session Generator
